@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+streamlit
+qdrant-client
+sentence-transformers
+rank-bm25
+langfuse
+ollama
+python-multipart
+pydantic
+pypdf
