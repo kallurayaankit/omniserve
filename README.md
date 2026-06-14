@@ -1,3 +1,4 @@
+![CI](https://github.com/kallurayaankit/omniserve/actions/workflows/ci.yml/badge.svg)
 # OmniServe
 
 Unified AI Engineer Portfolio System – a local‑first, real‑time, multimodal AI assistant that answers questions from documents, images, and live audio/video streams.
