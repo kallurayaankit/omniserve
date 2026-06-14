@@ -1,0 +1,4 @@
+2026-06-12 10:54:07.784 Found ASGI app at app:app (preferred name, line 35)
+2026-06-12 10:54:07.850 Starting uvicorn runner on 0.0.0.0:8501
+DEBUG: Starting app.py
+DEBUG: Working directory is C:\Users\user\AIprojects\omniserve\frontend

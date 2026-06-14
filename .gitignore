@@ -1,0 +1,12 @@
+venv/
+venv312/
+__pycache__/
+.env
+*.pyc
+.DS_Store
+omniserve_qdrant_data/
+synapse.db
+synapse.log
+omniserve.log
+training_data.json
+lora_adapter/
